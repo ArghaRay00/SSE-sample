@@ -1,0 +1,12 @@
+{
+  "name": "sse-backend",
+  "version": "1.0.0",
+  "description": "Server sent events example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Argha",
+  "license": "MIT"
+}
